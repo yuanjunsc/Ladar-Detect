@@ -1,0 +1,34 @@
+c:\users\ryz\documents\visual studio 2010\Projects\LiDAR\LiDAR\bin\Debug\LiDAR.exe
+c:\users\ryz\documents\visual studio 2010\Projects\LiDAR\LiDAR\bin\Debug\LiDAR.pdb
+c:\users\ryz\documents\visual studio 2010\Projects\LiDAR\LiDAR\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ryz\documents\visual studio 2010\Projects\LiDAR\LiDAR\obj\x86\Debug\LiDAR.Basic.resources
+c:\users\ryz\documents\visual studio 2010\Projects\LiDAR\LiDAR\obj\x86\Debug\LiDAR.Properties.Resources.resources
+c:\users\ryz\documents\visual studio 2010\Projects\LiDAR\LiDAR\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ryz\documents\visual studio 2010\Projects\LiDAR\LiDAR\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ryz\documents\visual studio 2010\Projects\LiDAR\LiDAR\obj\x86\Debug\LiDAR.exe
+c:\users\ryz\documents\visual studio 2010\Projects\LiDAR\LiDAR\obj\x86\Debug\LiDAR.pdb
+c:\users\ryz\documents\visual studio 2010\Projects\LiDAR\LiDAR\obj\x86\Debug\LiDAR.Display.resources
+C:\Users\ryz\Documents\Visual Studio 2010\Projects\LiDAR1.1\LiDAR\LiDAR\obj\x86\Debug\LiDAR.exe
+C:\Users\ryz\Documents\Visual Studio 2010\Projects\LiDAR1.1\LiDAR\LiDAR\obj\x86\Debug\LiDAR.pdb
+C:\Users\ryz\Documents\Visual Studio 2010\Projects\LiDAR1.1\LiDAR\LiDAR\bin\Debug\LiDAR.exe
+C:\Users\ryz\Documents\Visual Studio 2010\Projects\LiDAR1.1\LiDAR\LiDAR\bin\Debug\LiDAR.pdb
+C:\Users\ryz\Documents\Visual Studio 2010\Projects\LiDAR1.1\LiDAR\LiDAR\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ryz\Documents\Visual Studio 2010\Projects\LiDAR1.1\LiDAR\LiDAR\obj\x86\Debug\LiDAR.Display.resources
+C:\Users\ryz\Documents\Visual Studio 2010\Projects\LiDAR1.1\LiDAR\LiDAR\obj\x86\Debug\LiDAR.Basic.resources
+C:\Users\ryz\Documents\Visual Studio 2010\Projects\LiDAR1.1\LiDAR\LiDAR\obj\x86\Debug\LiDAR.Properties.Resources.resources
+C:\Users\ryz\Documents\Visual Studio 2010\Projects\LiDAR1.1\LiDAR\LiDAR\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ryz\Documents\Visual Studio 2010\Projects\LiDAR1.1\LiDAR\LiDAR\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ryz\Documents\Visual Studio 2010\Projects\LiDAR\LiDAR\LiDAR\obj\x86\Debug\LiDAR.exe
+C:\Users\ryz\Documents\Visual Studio 2010\Projects\LiDAR\LiDAR\LiDAR\obj\x86\Debug\LiDAR.pdb
+C:\Users\ryz\Documents\Visual Studio 2010\Projects\LiDAR\LiDAR\LiDAR\bin\Debug\LiDAR.exe
+C:\Users\ryz\Documents\Visual Studio 2010\Projects\LiDAR\LiDAR\LiDAR\bin\Debug\LiDAR.pdb
+C:\Users\ryz\Documents\Visual Studio 2010\Projects\LiDAR\LiDAR\LiDAR\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ryz\Documents\Visual Studio 2010\Projects\LiDAR\LiDAR\LiDAR\obj\x86\Debug\LiDAR.Display.resources
+C:\Users\ryz\Documents\Visual Studio 2010\Projects\LiDAR\LiDAR\LiDAR\obj\x86\Debug\LiDAR.Basic.resources
+C:\Users\ryz\Documents\Visual Studio 2010\Projects\LiDAR\LiDAR\LiDAR\obj\x86\Debug\LiDAR.Properties.Resources.resources
+C:\Users\ryz\Documents\Visual Studio 2010\Projects\LiDAR\LiDAR\LiDAR\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ryz\Documents\Visual Studio 2010\Projects\LiDAR\LiDAR\LiDAR\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ROBOCON2014\LiDAR1.8\LiDAR\LiDAR\LiDAR\obj\x86\Debug\LiDAR.exe
+D:\ROBOCON2014\LiDAR1.8\LiDAR\LiDAR\LiDAR\obj\x86\Debug\LiDAR.pdb
+C:\Users\lenovo\Desktop\LiDAR\LiDAR\obj\x86\Debug\LiDAR.exe
+C:\Users\lenovo\Desktop\LiDAR\LiDAR\obj\x86\Debug\LiDAR.pdb
